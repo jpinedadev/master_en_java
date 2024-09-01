@@ -13,5 +13,6 @@ public class generadorEmails {
 
         var email = nombreNormalizado + empresaNormalizado + dominio;
         System.out.println("email = " + email);
+        //repaso
     }
 }
