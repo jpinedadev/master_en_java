@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Introduccion.iml" filepath="$PROJECT_DIR$/.idea/Introduccion.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroduccionJava/IntroduccionJava.iml" filepath="$PROJECT_DIR$/IntroduccionJava/IntroduccionJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeerTiposDeDatos/LeerTiposDeDatos.iml" filepath="$PROJECT_DIR$/LeerTiposDeDatos/LeerTiposDeDatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SentenciasDeDecision/SentenciasDeDecision.iml" filepath="$PROJECT_DIR$/SentenciasDeDecision/SentenciasDeDecision.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/cadenas/cadenas.iml" filepath="$PROJECT_DIR$/cadenas/cadenas.iml" />
     </modules>
